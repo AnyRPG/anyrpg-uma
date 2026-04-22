@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMALegendaryLeatherHeadbandTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA Legendary Leather Headband
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: eecbd95e5cc2830488ac193905a95870, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 44c362f50253035468d680ab75b43474, type: 2}

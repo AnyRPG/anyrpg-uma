@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllClothEquipmentLegendaryItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Cloth Equipment Legendary Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 6632c46d50525d242883606fe5cc4c95, type: 2}
+  - {fileID: 11400000, guid: 91d2007f06410224cb63a68249880da0, type: 2}
+  - {fileID: 11400000, guid: 16d2927d4305a8d4a8cc423f825b227c, type: 2}
+  - {fileID: 11400000, guid: 2003c6c29d20dd444b02b59d17465793, type: 2}
+  - {fileID: 11400000, guid: 1cbe5a33367cafa4eb224571fa84e61a, type: 2}
+  - {fileID: 11400000, guid: 866b403d1a93cfc48807b89474aa6f20, type: 2}
+  - {fileID: 11400000, guid: 6453f62f9109952449a2d1313e87d9cc, type: 2}
+  - {fileID: 11400000, guid: b9e11c45d3e527a46b37b8c7fab5374a, type: 2}
+  - {fileID: 11400000, guid: 2fb329eaa8dcfe24f96ae85dcc3f57d6, type: 2}

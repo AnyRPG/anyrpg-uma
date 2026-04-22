@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllPlateEquipmentGoldItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Plate Equipment Gold Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 47baea6c06c35164c8bac131ecd84c23, type: 2}
+  - {fileID: 11400000, guid: 79099c762eec2f64f932ab4492a562aa, type: 2}
+  - {fileID: 11400000, guid: efc9ca71f147b1c4caa352dc3a98f95c, type: 2}
+  - {fileID: 11400000, guid: dbc3058a8194b404c94031ca1afc15d0, type: 2}
+  - {fileID: 11400000, guid: 31c11f0a50b57d54fbdeae7b1ceb8498, type: 2}
+  - {fileID: 11400000, guid: 1021ad61c547f3546b3251db72c9b999, type: 2}
+  - {fileID: 11400000, guid: 5832ca2f7618aa648a4098d88eaa6af4, type: 2}
+  - {fileID: 11400000, guid: 2efbabbe6aaa97749a6d39ba91e6a0cd, type: 2}
+  - {fileID: 11400000, guid: 227767fc7050eb04f8d863f1d51477be, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllPlateEquipmentSteelItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Plate Equipment Steel Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 676afca08e6543d46bc1a2df8693d5a7, type: 2}
+  - {fileID: 11400000, guid: 27ac9de855c19d6489595a55e1b71379, type: 2}
+  - {fileID: 11400000, guid: e1d4ba61e62f7684c92b00546f738eac, type: 2}
+  - {fileID: 11400000, guid: feb11fa861aec3f41bed2207325942cb, type: 2}
+  - {fileID: 11400000, guid: 180243867004f334a93229c7b6ddc061, type: 2}
+  - {fileID: 11400000, guid: d7fdb5b05dca1e04a9a09b0821300722, type: 2}
+  - {fileID: 11400000, guid: 34e8f101c5ce7ce4886962bd4faf510c, type: 2}
+  - {fileID: 11400000, guid: ee798354f8414c847b1ff36f25590855, type: 2}
+  - {fileID: 11400000, guid: 36e90373a71be5c4498680ac80e5887d, type: 2}

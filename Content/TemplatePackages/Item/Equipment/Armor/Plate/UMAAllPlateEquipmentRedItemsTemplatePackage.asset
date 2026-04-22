@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllPlateEquipmentRedItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Plate Equipment Red Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 2035224e1c337ea418143b249244dbe9, type: 2}
+  - {fileID: 11400000, guid: d1dc066b851503143b48ba03c8d46fd5, type: 2}
+  - {fileID: 11400000, guid: 1084332f571384048b131af20139f573, type: 2}
+  - {fileID: 11400000, guid: 6941f2feac241a843a1c34a5ec4f0c37, type: 2}
+  - {fileID: 11400000, guid: 5462328f293050648adce3aafd35a6a5, type: 2}
+  - {fileID: 11400000, guid: 241f1e4256591ca4db445555841560ca, type: 2}
+  - {fileID: 11400000, guid: 467bab100a03fca468f717340ba3c592, type: 2}
+  - {fileID: 11400000, guid: 128d70f34892c254080c4b62b66128ba, type: 2}
+  - {fileID: 11400000, guid: 77bccba4565c2fd47ad84804d3d6a4eb, type: 2}

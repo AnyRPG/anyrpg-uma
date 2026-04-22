@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllLeatherEquipmentLegendaryItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Leather Equipment Legendary Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 7ea38853fcd964a44860904e9bde3853, type: 2}
+  - {fileID: 11400000, guid: dfc0b24437a1f26429d45717bcef6f46, type: 2}
+  - {fileID: 11400000, guid: 3637c52f276d0c04b85dac83c5d2beba, type: 2}
+  - {fileID: 11400000, guid: 89ceebcb29c5024469df1227a8abe21d, type: 2}
+  - {fileID: 11400000, guid: fff5f0c4f4a219b49bed59b009d80aba, type: 2}
+  - {fileID: 11400000, guid: ff163c64d5a06474482922fd17d65d42, type: 2}
+  - {fileID: 11400000, guid: f232a62698daf9a4db4f92a472193c56, type: 2}
+  - {fileID: 11400000, guid: 280bfc899d6fb924b896cdc8806c79f5, type: 2}
+  - {fileID: 11400000, guid: 235998268be4d834087cd3b597780b0e, type: 2}

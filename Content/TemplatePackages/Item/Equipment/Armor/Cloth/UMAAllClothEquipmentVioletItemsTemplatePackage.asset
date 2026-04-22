@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllClothEquipmentVioletItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Cloth Equipment Violet Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: d0eddecc32d7bf74b9509487aeb8aa12, type: 2}
+  - {fileID: 11400000, guid: f096ecf4eadc41c4ab40cd2e1f1b424f, type: 2}
+  - {fileID: 11400000, guid: 6b2ec96e3bb90e04188d481855189c7f, type: 2}
+  - {fileID: 11400000, guid: 51249903ffefe354f949db56436d4b2e, type: 2}
+  - {fileID: 11400000, guid: b348af044257c3541a531446d900a557, type: 2}
+  - {fileID: 11400000, guid: 79afecd7d0c7d7e4eb72b8d5830a2c5b, type: 2}
+  - {fileID: 11400000, guid: a8663afbc24f1044fae6a7c4422c0fb2, type: 2}
+  - {fileID: 11400000, guid: 52806399e889617448fefc5d07138175, type: 2}
+  - {fileID: 11400000, guid: a4abb7e101e397b40874192c51288cb7, type: 2}

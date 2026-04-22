@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllLeatherEquipmentGreenItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Leather Equipment Green Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 0867cceb5df3d5447a11b8f596b18d4c, type: 2}
+  - {fileID: 11400000, guid: 642679038215ae046b0ca64e1c1cd250, type: 2}
+  - {fileID: 11400000, guid: d7875ec86c765e043ba1079d7cb0eaf8, type: 2}
+  - {fileID: 11400000, guid: 8de48435aee7c124db589bd494bd10c3, type: 2}
+  - {fileID: 11400000, guid: ef22e777250a27f448c0f06907c74fa6, type: 2}
+  - {fileID: 11400000, guid: 6f3cffe6d57bc654e96f1d9bee9b53ba, type: 2}
+  - {fileID: 11400000, guid: 1ddb0e29882e5d548a205190470cb4bc, type: 2}
+  - {fileID: 11400000, guid: af54edeac01e7ac42a77289ce50a4546, type: 2}
+  - {fileID: 11400000, guid: 6ee5d848dbdb94549940342750d1b829, type: 2}

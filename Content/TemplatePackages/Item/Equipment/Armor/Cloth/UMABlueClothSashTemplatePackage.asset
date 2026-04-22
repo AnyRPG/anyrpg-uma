@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMABlueClothSashTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA Blue Cloth Sash
+  displayName: 
+  icon: {fileID: 21300000, guid: 8e24aea23d2b80c41a57bf270e6270a0, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 11bded2c5da66fc478898c6e0b8ad4ce, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 28822725a363f414e87e765234bc1030, type: 2}

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllPlateEquipmentCopperItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Plate Equipment Copper Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: be98ac3ffa5ce654cbd22d57b1e3eec6, type: 2}
+  - {fileID: 11400000, guid: 03031f8d24c73d545bf13be4933188d9, type: 2}
+  - {fileID: 11400000, guid: abc516cb76a4f6c49b96f9f4c6c46035, type: 2}
+  - {fileID: 11400000, guid: fc8d0add5bafed04ea48aabc24fe81cf, type: 2}
+  - {fileID: 11400000, guid: 43bc070c0f0484a4eb48117e4cf0bed8, type: 2}
+  - {fileID: 11400000, guid: a26e72f3ac397894b8970c56e64771ca, type: 2}
+  - {fileID: 11400000, guid: ecc0dfb3e9ae9b64ba48c850d81ff2e1, type: 2}
+  - {fileID: 11400000, guid: 1ac68ca4fcc3eed4ba926b7b1a85b880, type: 2}
+  - {fileID: 11400000, guid: 18fe634733f794442bb2eb3848dda510, type: 2}

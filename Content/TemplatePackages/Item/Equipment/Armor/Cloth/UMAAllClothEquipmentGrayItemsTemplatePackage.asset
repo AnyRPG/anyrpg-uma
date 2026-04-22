@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllClothEquipmentGrayItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Cloth Equipment Gray Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 5f3ff2a6b0bfedb4cb335e62b3406fa3, type: 2}
+  - {fileID: 11400000, guid: fc4773b1889c26c44987f3dfc0924006, type: 2}
+  - {fileID: 11400000, guid: 0d7fff013faca6a4994052d3fac555d2, type: 2}
+  - {fileID: 11400000, guid: ec3faba382de08a4baf0906075f92c7a, type: 2}
+  - {fileID: 11400000, guid: 4546b3b35e52c354cb25e25c22e3ee82, type: 2}
+  - {fileID: 11400000, guid: ef0c71eaedcb0af4c8db4662840d9823, type: 2}
+  - {fileID: 11400000, guid: 9c57a4f2f0a66a447a8394304842c294, type: 2}
+  - {fileID: 11400000, guid: 85be698db3192fb459aaceacb767ed5f, type: 2}
+  - {fileID: 11400000, guid: 15b3282d4e9920749859f0ca1e46a27c, type: 2}

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMALegendaryClothMantleTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA Legendary Cloth Mantle
+  displayName: 
+  icon: {fileID: 21300000, guid: 9a7a47a40558ddd4781f43584b29bfc6, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 4f4c79c7f297b664b9238b9d3f3cc255, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: af505da88aa39164bb81c8b9a89b9f19, type: 2}

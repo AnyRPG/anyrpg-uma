@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAGrayClothShoesTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA Gray Cloth Shoes
+  displayName: 
+  icon: {fileID: 21300000, guid: b2884f198fb57764ca49d9121d4ae034, type: 3}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources:
+  - {fileID: 11400000, guid: 43607a5c7eb142d4091378257aea67cd, type: 2}
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: dce1039b50cdfff418151b1542494da4, type: 2}

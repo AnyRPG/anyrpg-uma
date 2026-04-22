@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9b51b8d3aa844448aaeab0a989e2fa, type: 3}
+  m_Name: UMAAllPlateEquipmentBronzeItemsTemplatePackage
+  m_EditorClassIdentifier: 
+  resourceName: UMA All Plate Equipment Bronze Items
+  displayName: 
+  icon: {fileID: 0}
+  iconBackgroundImage: {fileID: 0}
+  description: 
+  useRegionalDescription: 0
+  resourceDescriptionProfile: 
+  optionalOverride: 0
+  resources: []
+  prefabs: []
+  dependencies:
+  - {fileID: 11400000, guid: 0a9053daa898c1c448376b5165011922, type: 2}
+  - {fileID: 11400000, guid: eae1a0072408bae49b7f02be78d631c9, type: 2}
+  - {fileID: 11400000, guid: 8c649ec32e325f241a47e4711ba2e7a6, type: 2}
+  - {fileID: 11400000, guid: 5916ac12f836bd44dac5b85dde9edb6b, type: 2}
+  - {fileID: 11400000, guid: acae56c371d91664a8c3372be39f4ae0, type: 2}
+  - {fileID: 11400000, guid: 29feea37560533a4f985ffcaaa0ebedf, type: 2}
+  - {fileID: 11400000, guid: a3d796519fbc7d14591fd56babc8a88e, type: 2}
+  - {fileID: 11400000, guid: f539defb524fdb640b05ff7e8a1b2ecd, type: 2}
+  - {fileID: 11400000, guid: e0fc9bade6b84e245815881e9a03884e, type: 2}
