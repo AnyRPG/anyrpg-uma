@@ -5,7 +5,7 @@
 This is the UMA addon for AnyRPG.
 
 It adds the following features and functionality:
-* UMA male and female player characters
+* UMA male and female characters
 * UMA equipment
 * Template content that includes UMA NPCs and UMA equipment
 * UMA character editor with DNA and slot customization
