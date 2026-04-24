@@ -21,13 +21,13 @@ MonoBehaviour:
   m_OverrideGlobalSceneList: 1
   m_Scenes:
   - m_enabled: 1
-    m_path: Assets/AnyRPG/Addons/UMA/Games/UMADemoGame/Scenes/Game/UMADemoGame/UMADemoGame.unity
+    m_path: Assets/AnyRPG/Addons/anyrpg-uma/Games/UMADemoGame/Scenes/Game/UMADemoGame/UMADemoGame.unity
   - m_enabled: 1
-    m_path: Assets/AnyRPG/Addons/UMA/Games/UMADemoGame/Scenes/Game/UMADemoMainMenu/UMADemoMainMenu.unity
+    m_path: Assets/AnyRPG/Addons/anyrpg-uma/Games/UMADemoGame/Scenes/Game/UMADemoMainMenu/UMADemoMainMenu.unity
   - m_enabled: 1
-    m_path: Assets/AnyRPG/Addons/UMA/Games/UMADemoGame/Scenes/Content/UMADemoZone/UMADemoZone.unity
+    m_path: Assets/AnyRPG/Addons/anyrpg-uma/Games/UMADemoGame/Scenes/Content/UMADemoZone/UMADemoZone.unity
   - m_enabled: 1
-    m_path: Assets/AnyRPG/Addons/UMA/Games/UMADemoGame/Scenes/Content/UMADemoDungeon/UMADemoDungeon.unity
+    m_path: Assets/AnyRPG/Addons/anyrpg-uma/Games/UMADemoGame/Scenes/Content/UMADemoDungeon/UMADemoDungeon.unity
   m_HasScriptingDefines: 0
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
