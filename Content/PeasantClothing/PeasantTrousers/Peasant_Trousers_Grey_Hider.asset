@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c86f7fb3ea5bac04a857e5f4a0b30077, type: 3}
   m_Name: Peasant_Trousers_Grey_Hider
   m_EditorClassIdentifier: 
-  _asset: {fileID: 11400000, guid: 2041a0dad0ad3894ea9590072acacf65, type: 2}
-  _assetSlotName: MaleLegs
+  _asset: {fileID: 11400000, guid: 68a099e76ef570d46bd45069118dc008, type: 2}
+  _assetSlotName: Peasant_Trousers_Grey
   _serializedFlags:
   - flags: ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff0b0180cff51ffc3f00010000000000d0817ff8ffffffffffffffffffffffffffffffffffffffffffffffffffffff9fff0100ffffffffffffff00000000000000000000effcbfffdfff0f00
     Count: 884
