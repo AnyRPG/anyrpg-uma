@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 676f3c5a232b18c409f12db78a5ca6a4
+labels:
+- UMA_Text Recipe
+- UMA_Wardrobe Recipe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/MaleChallengerGloves.asset
+  uploadId: 883964

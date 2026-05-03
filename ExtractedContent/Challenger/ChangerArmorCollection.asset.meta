@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7aafef8e795d8fb4e97c5f615fff0979
+labels:
+- UMA_Text Recipe
+- UMA_Wardrobe Collection
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/ChangerArmorCollection.asset
+  uploadId: 883964

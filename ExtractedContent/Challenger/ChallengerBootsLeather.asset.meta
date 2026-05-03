@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 52356e7a7ac1a79468d88e2b3f918bd6
+labels:
+- UMA_Overlay
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/ChallengerBootsLeather.asset
+  uploadId: 883964

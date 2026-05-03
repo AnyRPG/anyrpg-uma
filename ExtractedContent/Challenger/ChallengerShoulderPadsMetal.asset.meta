@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2b7f847e474a9ce43b6dbb01f4b645d0
+labels:
+- UMA_Overlay
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 35611
+  packageName: UMA 2
+  packageVersion: 2.14f7
+  assetPath: Assets/AnyRPG/Engine/Content/ThirdPartyContent/UMA/ExtractedContent/Challenger/ChallengerShoulderPadsMetal.asset
+  uploadId: 883964
