@@ -1,7 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using System.IO;
+﻿using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEditor;
@@ -11,7 +8,7 @@ namespace AnyRPG {
     public class UMASupportWizard : ScriptableWizard {
 
         private const string pathToUMAGLIBPrefab = "/UMA/Getting Started/UMA_GLIB.prefab";
-        private const string pathToPlayerUnitsTemplate = "/AnyRPG/UMA/Content/TemplatePackages/UnitProfile/Player/UMAHumanPlayerUnitsTemplatePackage.asset";
+        private const string pathToPlayerUnitsTemplate = "/AnyRPG/Addons/anyrpg-uma/Content/TemplatePackages/UnitProfile/Player/UMAHumanPlayerUnitsTemplatePackage.asset";
 
         // Will be a subfolder of Application.dataPath and should start with "/"
         private string gameParentFolder = "/Games/";

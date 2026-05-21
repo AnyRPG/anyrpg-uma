@@ -1,11 +1,6 @@
-﻿using AnyRPG;
-using System.Collections;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
+﻿using System.Collections.Generic;
 using UMA;
 using UnityEngine;
-using UnityEngine.UI;
 using UnityEditor;
 
 namespace AnyRPG {
