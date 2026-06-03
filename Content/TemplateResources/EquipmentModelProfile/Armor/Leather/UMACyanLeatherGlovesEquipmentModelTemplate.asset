@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Cyan Leather Gloves
     equipmentModels:
     - rid: 5705935833309905127
   references:

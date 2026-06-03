@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Copper Plate Bracers
     equipmentModels:
     - rid: 5705935833309905083
   references:

@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Green Cloth Bracers
     equipmentModels:
     - rid: 5705935833309905208
   references:

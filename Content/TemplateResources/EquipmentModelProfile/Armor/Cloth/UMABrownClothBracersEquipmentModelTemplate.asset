@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Brown Cloth Bracers
     equipmentModels:
     - rid: 5705935833309905032
   references:

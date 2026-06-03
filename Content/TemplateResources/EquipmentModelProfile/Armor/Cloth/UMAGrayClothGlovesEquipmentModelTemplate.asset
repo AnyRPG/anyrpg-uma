@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Gray Cloth Gloves
     equipmentModels:
     - rid: 5705935833309905163
   references:

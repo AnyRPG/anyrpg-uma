@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Legendary Leather Belt
     equipmentModels:
     - rid: 5705935833309905489
   references:

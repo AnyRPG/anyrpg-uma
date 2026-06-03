@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Gray Leather Armor
     equipmentModels:
     - rid: 5705935833309905184
   references:

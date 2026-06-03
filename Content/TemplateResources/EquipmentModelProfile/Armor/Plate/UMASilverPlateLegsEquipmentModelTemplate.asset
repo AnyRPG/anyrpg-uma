@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Silver Plate Legs
     equipmentModels:
     - rid: 5705935833309905395
   references:

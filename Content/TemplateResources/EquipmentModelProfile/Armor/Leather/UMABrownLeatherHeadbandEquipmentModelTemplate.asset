@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Brown Leather Headband
     equipmentModels:
     - rid: 5705935833309905071
   references:

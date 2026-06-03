@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Red Leather Pants
     equipmentModels:
     - rid: 5705935833309905341
   references:

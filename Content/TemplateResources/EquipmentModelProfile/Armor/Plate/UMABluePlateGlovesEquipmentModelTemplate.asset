@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Blue Plate Gloves
     equipmentModels:
     - rid: 5705935833309905007
   references:

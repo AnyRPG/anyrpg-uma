@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Red Leather Bracers
     equipmentModels:
     - rid: 5705935833309905332
   references:

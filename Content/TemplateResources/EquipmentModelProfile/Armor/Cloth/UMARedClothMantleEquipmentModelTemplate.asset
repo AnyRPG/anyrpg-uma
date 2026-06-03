@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Red Cloth Mantle
     equipmentModels:
     - rid: 5705935833309905308
   references:

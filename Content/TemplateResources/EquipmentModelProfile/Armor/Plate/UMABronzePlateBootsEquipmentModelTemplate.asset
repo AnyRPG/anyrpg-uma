@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Bronze Plate Boots
     equipmentModels:
     - rid: 5705935833309905017
   references:

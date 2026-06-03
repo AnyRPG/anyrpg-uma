@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Violet Leather Armor
     equipmentModels:
     - rid: 5705935833309905447
   references:

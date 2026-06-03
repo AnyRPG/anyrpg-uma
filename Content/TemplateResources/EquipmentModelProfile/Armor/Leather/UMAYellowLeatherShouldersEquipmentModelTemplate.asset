@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Yellow Leather Shoulders
     equipmentModels:
     - rid: 5705935833309905501
   references:

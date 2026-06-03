@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Yellow Cloth Hood
     equipmentModels:
     - rid: 5705935833309905475
   references:

@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Violet Cloth Pants
     equipmentModels:
     - rid: 5705935833309905436
   references:

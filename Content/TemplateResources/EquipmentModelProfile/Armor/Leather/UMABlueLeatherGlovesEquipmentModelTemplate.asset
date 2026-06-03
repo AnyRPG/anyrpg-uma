@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Blue Leather Gloves
     equipmentModels:
     - rid: 5705935833309904988
   references:

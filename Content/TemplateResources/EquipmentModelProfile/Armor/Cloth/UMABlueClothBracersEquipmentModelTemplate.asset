@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Blue Cloth Bracers
     equipmentModels:
     - rid: 5705935833309904952
   references:

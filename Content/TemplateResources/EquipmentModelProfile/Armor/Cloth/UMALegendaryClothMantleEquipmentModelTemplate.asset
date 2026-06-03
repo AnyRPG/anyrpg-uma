@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Legendary Cloth Mantle
     equipmentModels:
     - rid: 5705935833309905477
   references:

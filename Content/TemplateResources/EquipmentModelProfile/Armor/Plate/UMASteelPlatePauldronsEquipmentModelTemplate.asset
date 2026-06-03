@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Steel Plate Pauldrons
     equipmentModels:
     - rid: 5705935833309905413
   references:

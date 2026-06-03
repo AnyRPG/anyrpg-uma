@@ -21,6 +21,7 @@ MonoBehaviour:
   resourceDescriptionProfile: 
   optionalOverride: 0
   properties:
+    applyToEquipmentName: Yellow Cloth Gloves
     equipmentModels:
     - rid: 5705935833309905473
   references:
